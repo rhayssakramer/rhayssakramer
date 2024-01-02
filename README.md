@@ -1,4 +1,4 @@
-# <img height="40" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/logo.png"> Rhayssa Kramer
+# <img height="20" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/logo.png"> Rhayssa Kramer
 
 👋🏻 Olá, eu sou Rha Kramer!  
 👩🏼‍💻 Sou Desenvolvedora FullStack de Olinda-PE, Brasil  
