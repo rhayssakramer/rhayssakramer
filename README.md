@@ -1,10 +1,11 @@
-# <img height="30" src="https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/logo.png"> Rhayssa Kramer
+# Rhayssa Kramer
 
 👋🏻 Olá, eu sou Rha Kramer!  
-👩🏼‍💻 Sou Desenvolvedora FullStack de Olinda-PE, Brasil  
+👩🏼‍💻 Sou Desenvolvedora FullStack  
+📍  De Olinda-PE, Brasil  
 🎓 Cursando Sistemas de Informação (3º Período)  
 🚀 Criadora de conteúdos tech  
-📚 Vendo meus resumos de **PROGRAMAÇÃO** no link 👉🏻 [devrhakramer](https://abre.ai/devrhakramer)
+⚡️ Creator of Conecta T.I. 👉🏻 [devrhakramer](https://abre.ai/devrhakramer)
 
 ## Sobre Mim
 Meu primeiro “Hello World” foi na adolescência quando tive meu primeiro contato com HTML e CSS no Notepad++. Hoje estudo programação há cerca de 1 ano e ajudo iniciantes nas redes socias com dicas de programação, estudos, rotinas, **com uma pitada de humor**. Sou apaixonada pelo unniverso tech, no meu tempo livre gosto de viajar/passear, ler, assistir filmes/séries/documentários e jogar games.
