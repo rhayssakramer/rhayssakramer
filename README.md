@@ -1,11 +1,10 @@
 # Rhayssa Kramer
 
-👋🏻 Olá, eu sou Rha Kramer!  
-👩🏼‍💻 Sou Desenvolvedora FullStack  
-📍  De Olinda-PE, Brasil  
-🎓 Cursando Sistemas de Informação (3º Período)  
-🚀 Criadora de conteúdos tech  
-⚡️ Creator of Conecta T.I. 👉🏻 [clica aqui](https://abre.ai/devrhakramer)
+👋🏻 Olá, eu sou Rha Kramer!
+👩🏼‍💻 Full-Stack Development at [Avanade](https://www.avanade.com/pt-br)
+🎓 Cursando Sistemas de Informação (4º Período) 
+🚀 Criadora de conteúdos tech, rotina, estudo e dicas
+⚡️ CEO do Conecta T.I. 👉🏻 [clica aqui](https://abre.ai/devrhakramer)
 
 ## Sobre Mim
 Meu primeiro “Hello World” foi na adolescência quando tive meu primeiro contato com HTML e CSS no Notepad++. Hoje estudo programação há cerca de 1 ano e ajudo iniciantes nas redes socias com dicas de programação, estudos, rotinas, **com uma pitada de humor**. Sou apaixonada pelo unniverso tech, no meu tempo livre gosto de viajar/passear, ler, assistir filmes/séries/documentários e jogar games.
