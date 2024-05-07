@@ -32,5 +32,9 @@ Você pode me encontrar nos 👉🏻 [meus links](https://linktr.ee/devrhakramer
 [![](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/devrhakramer)](https://www.facebook.com/devrhakramer)
 [![](https://img.shields.io/badge/-GMAIL-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhayssakramer@gmail.com)](https://mailto:devrhakramer@gmail.com)
 
-![rhayssakramer GitHub stats](https://github-readme-stats.vercel.app/api?username=rhayssakramer&show_icons=true&theme=tokyonight)
-![rhayssakramer GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhayssakramer&layout=compact&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rhayssakramer&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhayssakramer&layout=compact&theme=tokyonight" />
+</a>
