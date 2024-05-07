@@ -1,6 +1,5 @@
-# Rhayssa Kramer
+# 👋🏻 Olá, eu sou Rhayssa Kramer!
 
-👋🏻 Olá, eu sou Rha Kramer!  
 👩🏼‍💻 Full-Stack Development at [Avanade](https://www.avanade.com/pt-br)  
 🎓 Cursando Sistemas de Informação (4º Período)  
 🚀 Criadora de conteúdos tech, rotina, estudo e dicas  
@@ -16,13 +15,14 @@ Meu primeiro “Hello World” foi na adolescência quando tive meu primeiro con
 
 ## Conecte-se comigo
 Você pode me encontrar nos 👉🏻 [meus links](https://linktr.ee/devrhakramer) ou clicando abaixo 👇🏼  
-[![](https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/instagram.png)](https://www.instagram.com/devrhakramer) 
-[![](https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/youtube.png)](https://www.youtube.com/@devrhakramer)
-[![](https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/rhayssakramer)
-[![](https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/discord.png)](https://discord.gg/atkKBZnW)
-[![](https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/facebook.png)](https://www.facebook.com/devrhakramer)
-[![](https://github.com/rhayssakramer/rhayssakramer/blob/main/assets/images/gmail.png)](https://mailto:devrhakramer@gmail.com)
+  
+[![](https://img.shields.io/badge/-INSTAGRAM-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devrhakramer)](https://www.instagram.com/devrhakramer) 
+[![](https://img.shields.io/badge/-YOUTUBE-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@devrhakramer)](https://www.youtube.com/@devrhakramer)
+[![](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhayssakramer)](https://www.linkedin.com/in/rhayssakramer)
+[![](https://img.shields.io/badge/-DISCORD-006bed?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/atkKBZnW)](https://discord.gg/atkKBZnW)
+[![](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/devrhakramer)](https://www.facebook.com/devrhakramer)
+[![](https://img.shields.io/badge/-GMAIL-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhayssakramer@gmail.com)](https://mailto:devrhakramer@gmail.com)
 
 ## GitHub Stats
 ![rhayssakramer GitHub stats](https://github-readme-stats.vercel.app/api?username=rhayssakramer&show_icons=true&theme=tokyonight)
-![rhayssakramer GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhayssakramer&layout=donut)
+![rhayssakramer GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rhayssakramer&layout=donut&theme=tokyonight)
