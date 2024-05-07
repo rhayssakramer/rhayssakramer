@@ -7,7 +7,7 @@
 ⚡️ CEO do Conecta T.I. 👉🏻 [clica aqui](https://linktr.ee/conectati_)  
 
 ## 💬 Sobre Mim
-<p align="left"><img align="right"                                         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl2bXBlNnppODFpMHEzMmt0MXoxNmE4cThxejlvYWpiNGN0dzZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250"></p>Meu primeiro “Hello World” foi na adolescência quando tive meu primeiro contato com HTML e CSS no Notepad++. Hoje estudo programação há cerca de 1 ano e ajudo iniciantes nas redes socias com dicas de programação, estudos, rotinas, <b>com uma pitada de humor</b>. Sou apaixonada pelo universo tech, no meu tempo livre gosto de viajar/passear, ler, assistir filmes/séries/documentários e jogar games.
+<img align="right"                                         src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl2bXBlNnppODFpMHEzMmt0MXoxNmE4cThxejlvYWpiNGN0dzZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="250">Meu primeiro “Hello World” foi na adolescência quando tive meu primeiro contato com HTML e CSS no Notepad++. Hoje estudo programação há cerca de 1 ano e ajudo iniciantes nas redes socias com dicas de programação, estudos, rotinas, <b>com uma pitada de humor</b>. Sou apaixonada pelo universo tech, no meu tempo livre gosto de viajar/passear, ler, assistir filmes/séries/documentários e jogar games.
 
 <br>
 <br>  
