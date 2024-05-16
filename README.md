@@ -1,8 +1,8 @@
 <h1 align="center">👋🏻 Olá, eu sou Rhayssa Kramer!</h1>
 
+🌍 Apaixonada por Tecnologia  
 👩🏼‍💻 Full-Stack Development at [Avanade](https://www.avanade.com/pt-br)  
 🎓 Cursando Sistemas de Informação (4º Período)  
-🌍 Apaixonada por Tecnologia  
 🚀 Criadora de conteúdos tech, rotina, estudo e dicas  
 ⚡️ CEO do Conecta T.I. 👉🏻 [clica aqui](https://linktr.ee/conectati_)  
 
