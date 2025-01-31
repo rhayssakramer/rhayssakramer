@@ -6,7 +6,7 @@
 🚀 Criadora de conteúdos tech, rotina, estudo e dicas  👉🏻 [clica aqui](https://linktr.ee/devrhakramer)
 
 ## 💬 Sobre Mim
-<img align="right" width="250" style="margin-left: 40;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTl2bXBlNnppODFpMHEzMmt0MXoxNmE4cThxejlvYWpiNGN0dzZueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif"> <p style="text-align: justify; align: left; margin-right: 20">Meu primeiro <b>Hello World</b>  foi com HTML e CSS na adolescência, usando o Notepad++. <br>Estudo programação há cerca de 2 anos e compartilho dicas de programação, estudos e rotinas com iniciantes nas redes sociais sempre <b>com uma pitada de humor</b>. <br>Sou apaixonada pelo universo tech, no meu tempo livre gosto de viajar, ler, assistir filmes/séries/documentários e jogar games.</p>  
+<img align="right" width="250" style="margin-left: 40;" src="https://gifer.com/1zkX"> <p style="text-align: justify; align: left; margin-right: 20">Meu primeiro <b>Hello World</b>  foi com HTML e CSS na adolescência, usando o Notepad++. <br>Estudo programação há cerca de 2 anos e compartilho dicas de programação, estudos e rotinas com iniciantes nas redes sociais sempre <b>com uma pitada de humor</b>. <br>Sou apaixonada pelo universo tech, no meu tempo livre gosto de viajar, ler, assistir filmes/séries/documentários e jogar games.</p>  
 <br>
 
 ## 🛠️ Habilidades Técnicas  
