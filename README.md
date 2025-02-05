@@ -18,6 +18,8 @@
 - [Projeto 01](https://github.com/rhayssakramer/trilha-dotnet-desafio-fundamentos): Desafio de projeto .NET Fundamentos - DIO do Decola Tech Avanade 4ª Edição 2024.
 - [Projeto 02](https://github.com/rhayssakramer/impacta-Projeto03): Projeto do Impacta da disciplina de AspNet - Implementação de Sistema de Controle de Vendas do AvaBuy - Decola Tech 2024 (Treinamento).
 - [Projeto 03](https://github.com/rhayssakramer/ProjetoFinal_Myte_Grupo3.git ): Projeto Final do treinamento da Impacta de AzureDevops, Azure, Metodologias Ágeis, C#, .NET e AspNET, proporcionado pela Avanade.
+- [Projeto 04](https://github.com/rhayssakramer/github-certification.git): Materiais de estudos para a GitHub Certification.
+- [Projeto 05](https://github.com/rhayssakramer/microsoft-certification): Materiais de estudo para a Microsoft Certification.
 
 ## 📫 Conecte-se comigo
 Você pode me encontrar nos 👉🏻 [meus links](https://linktr.ee/devrhakramer) ou clicando abaixo 👇🏼  
