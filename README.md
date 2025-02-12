@@ -86,13 +86,14 @@
 <br/>
 
 <h2 align="center">🏆 Projetos Destacados</h2>
->[Projeto 01](https://github.com/rhayssakramer/trilha-dotnet-desafio-fundamentos): Desafio de projeto .NET Fundamentos - DIO do Decola Tech Avanade 4ª Edição 2024.
-- [Projeto 02](https://github.com/rhayssakramer/impacta-Projeto03): Projeto do Impacta da disciplina de AspNet - Implementação de Sistema de Controle de Vendas do AvaBuy - Decola Tech 2024 (Treinamento).
-- [Projeto 03](https://github.com/rhayssakramer/ProjetoFinal_Myte_Grupo3.git ): Projeto Final do treinamento da Impacta de AzureDevops, Azure, Metodologias Ágeis, C#, .NET e AspNET, proporcionado pela Avanade.
+
+- [Projeto 01](https://github.com/rhayssakramer/trilha-dotnet-desafio-fundamentos): Desafio de projeto .NET Fundamentos - Decola Tech Avanade 2024.
+- [Projeto 02](https://github.com/rhayssakramer/impacta-Projeto03): Projeto AvaBuy com AspNet para implementar um Sistema de Controle de Vendas - Decola Tech Avanade 2024.
+- [Projeto 03](https://github.com/rhayssakramer/ProjetoFinal_Myte_Grupo3.git ): Projeto Final MyTE com AzureDevops, Azure, Metodologias Ágeis, C#, .NET e AspNET - Decola Tech Avanade 2024.
 - [Projeto 04](https://github.com/rhayssakramer/github-certification.git): Materiais de estudos para a GitHub Certification.
 - [Projeto 05](https://github.com/rhayssakramer/microsoft-certification): Materiais de estudo para a Microsoft Certification.
 
-<h2 align="center">🐙 GitHub Stats<h2> 
+<h2 align="center">🐙 GitHub Stats</h2> 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhayssakramer&theme=tokyonight">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rhayssakramer&theme=tokyonight&utcOffset=8)">
@@ -102,6 +103,6 @@
 </div>
 <br/>
 
-<div align="center"><p>Made with 💜 by <a href="https://github.com/rhayssakramer">Rhayssa Kramer</a>.</p></div>  
+<div align="center">Made with 💜 by <a href="https://github.com/rhayssakramer">Rhayssa Kramer</a>.</div>  
 
 <a href="https://www.github.com/rhayssakramer/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9370db&section=footer"/></a>
