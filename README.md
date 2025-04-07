@@ -6,7 +6,7 @@
 👩🏼‍💻 Full-Stack Development at [Avanade](https://www.avanade.com/pt-br)  
 🎓 Cursando Sistemas de Informação | 5º Período   
 🚀 Criadora de conteúdos tech, rotina, estudo e dicas no  👉🏻 [devhakramer](https://linktr.ee/devrhakramer)  
-⚡CEO do [Coneta T.I.](https://linktr.ee/seconectati)
+⚡Founder do [Coneta T.I.](https://linktr.ee/seconectati)
 <br/>
 <br/>
 <br/>
