@@ -4,9 +4,8 @@
 🌍 Apaixonada por Tecnologia  
 
 👩🏼‍💻 Full-Stack Development at [Avanade](https://www.avanade.com/pt-br)  
-🎓 Cursando Sistemas de Informação | 5º Período   
+🎓 Cursando Sistemas de Informação | 6º Período   
 🚀 Criadora de conteúdos tech, rotina, estudo e dicas no  👉🏻 [devhakramer](https://linktr.ee/devrhakramer)  
-⚡Founder do [Coneta T.I.](https://linktr.ee/seconectati)
 <br/>
 <br/>
 <br/>
