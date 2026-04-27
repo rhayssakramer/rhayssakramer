@@ -14,7 +14,7 @@
 
 <h2 align="center">💬 Sobre Mim</h2>
 <div align="center">
-<p>Meu primeiro <b>Hello World</b>  foi com HTML e CSS na adolescência, usando o Notepad++. Estudo programação há cerca de 2 anos e compartilho dicas de programação, estudos e rotinas com iniciantes nas redes sociais sempre <b>com uma pitada de humor</b>. Sou apaixonada pelo universo tech, no meu tempo livre gosto de viajar, ler, assistir filmes, séries, documentários e jogar games.</p>
+<p>Meu primeiro <b>Hello World</b>  foi com HTML e CSS na adolescência, usando o Notepad++. Estudo programação há cerca de 3 anos e compartilho dicas de programação, estudos e rotinas com iniciantes nas redes sociais <b>com linhas de humor</b>. Sou apaixonada pelo universo tech, no meu tempo livre gosto de viajar, ler, assistir filmes, séries, documentários e jogar games.</p>
 </div>
 <br/>
 
