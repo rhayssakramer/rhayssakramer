@@ -4,7 +4,7 @@
 🌍 Apaixonada por Tecnologia  
 
 👩🏼‍💻 Full-Stack Development at [Avanade](https://www.avanade.com/pt-br)  
-🎓 Cursando Sistemas de Informação | 6º Período   
+🎓 Sistemas de Informação | 6/8  
 🚀 Criadora de conteúdos tech, rotina, estudo e dicas no  👉🏻 [devhakramer](https://linktr.ee/devrhakramer)  
 <br/>
 <br/>
