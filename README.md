@@ -88,11 +88,10 @@
 
 <h2 align="center">🏆 Projetos Destacados</h2>
 
-- [Projeto 01](https://github.com/rhayssakramer/trilha-dotnet-desafio-fundamentos): Desafio de projeto .NET Fundamentos - Decola Tech Avanade 2024.
-- [Projeto 02](https://github.com/rhayssakramer/impacta-Projeto03): Projeto AvaBuy com AspNet para implementar um Sistema de Controle de Vendas - Decola Tech Avanade 2024.
-- [Projeto 03](https://github.com/rhayssakramer/ProjetoFinal_Myte_Grupo3.git ): Projeto Final MyTE com AzureDevops, Azure, Metodologias Ágeis, C#, .NET e AspNET - Decola Tech Avanade 2024.
-- [Projeto 04](https://github.com/rhayssakramer/github-certification.git): Materiais de estudos para a GitHub Certification.
-- [Projeto 05](https://github.com/rhayssakramer/microsoft-certification): Materiais de estudo para a Microsoft Certification.
+- [Projeto 01](https://github.com/rhayssakramer/github-certification.git): Materiais de estudos para a GitHub Certification
+- [Projeto 02](https://github.com/rhayssakramer/microsoft-certification): Materiais de estudo para a Microsoft Certification
+- [Projeto 03](https://github.com/rhayssakramer/codex): Codex - Biblioteca de Conteúdos de Programação
+- [Projeto 04](https://github.com/rhayssakramer/portfolio-devrhakramer): Portfólio Profissional - devrhakramer
 
 <h2 align="center">🐙 GitHub Stats</h2> 
 <div align="center">
